@@ -1,3 +1,3 @@
-# Mobile_sales_visualization
+# Sales_visual
 
-Visualization of mobiles through Tableau with help of various charts.
+Visualization of Mobile sales through Tableau with help of various charts.
